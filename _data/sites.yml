@@ -403,6 +403,11 @@
   size: 29.0
   last_checked: 2022-05-11
 
+- domain: thafaker.crabdance.com
+  url: http://thafaker.crabdance.com
+  size: 44.69
+  last_checked: 2025-01-23
+
 - domain: bastian.rieck.me
   url: https://bastian.rieck.me/
   size: 502
